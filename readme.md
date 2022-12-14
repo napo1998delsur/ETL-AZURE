@@ -4,6 +4,9 @@ Run
 
 En la terminal correr
 
+
+1.Creación de proyecto con Azure CLI
+
 ##  python crerar  proyecto.py
 
 
