@@ -1,12 +1,12 @@
 Instalation
 
-Run 
+Run En la terminal correr
 
-1. En la terminal correr
+##  python crerar  proyecto.py
 
-python crarar  proyecto.py
+Este archivo se conecta a la instancia de cloud sql y crea el proyecto en instancias serverless
 
-Este archivo se conecta a la instancia de cloud sql
+
 
 
 2. Carga de archivo 
