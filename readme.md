@@ -7,7 +7,7 @@ En la terminal correr
 
 1.Creación de proyecto con Azure CLI
 
-##  python crerar  proyecto.py
+##  python createproyecto.py
 
 
 Este archivo se conecta a la instancia de cloud sql y crea el proyecto en instancias serverless
