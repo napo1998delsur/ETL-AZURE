@@ -4,7 +4,7 @@ Run
 
 1. En la terminal correr
 
-python crarproyecto. py
+python crarar  proyecto.py
 
 Este archivo se conecta a la instancia de cloud sql
 
