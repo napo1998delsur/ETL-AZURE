@@ -1,8 +1,11 @@
 Instalation
 
-Run En la terminal correr
+Run 
+
+En la terminal correr
 
 ##  python crerar  proyecto.py
+
 
 Este archivo se conecta a la instancia de cloud sql y crea el proyecto en instancias serverless
 
@@ -11,9 +14,9 @@ Este archivo se conecta a la instancia de cloud sql y crea el proyecto en instan
 
 2. Carga de archivo 
 
-correr python etl.py
+##correr python etl.py
 
-En este archivo se cargan los datos en la base de datos relacional
+En este archivo se cargan los datos en la base de datos relacional usando azurestorageblob
 
 ![image](https://user-images.githubusercontent.com/115656228/207717061-a55d31ba-cb6a-4179-a8ee-14f91cb44aa1.png)
 
