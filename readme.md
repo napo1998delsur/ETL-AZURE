@@ -14,7 +14,7 @@ Este archivo se conecta a la instancia de cloud sql y crea el proyecto en instan
 
 2. Carga de archivo 
 
-##correr python etl.py
+##    correr python etl.py
 
 En este archivo se cargan los datos en la base de datos relacional usando azurestorageblob
 
